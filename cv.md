@@ -15,7 +15,7 @@
 *Figma
 *GitHub
 ##Code example
-###Task from [Leetcode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+###Task from https://www.codewars.com/ Count odd numbers in an interval range
 ```javascript
 /**
  * @param {number} low
