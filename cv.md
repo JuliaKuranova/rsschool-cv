@@ -15,13 +15,8 @@
 * Figma
 * GitHub
 ## Code example
-### Task from https://www.codewars.com/ Count odd numbers in an interval range
-```javascript
-/**
- * @param {number} low
- * @param {number} high
- * @return {number}
- */
+### Task from Codewars.com - Count odd numbers in an interval range
+```
 var countOdds = function(low, high) {
     let countOfAdd = 0;
     for (let i = low; i <= high; i++) {
@@ -34,10 +29,10 @@ var countOdds = function(low, high) {
 ```
 ## Experience
 ### I have been working as a layout designer for 1 year
-### My work site - https://www.mcn.ru/
+### My work site - [www.mcn.ru](https://mcn.ru/)
 ## Education
-* FreeCodeCamp [Responsive Web Design Certification] (https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-* FreeCodeCamp [JavaScript Algorithms and Data Structures] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* FreeCodeCamp [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* FreeCodeCamp [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 ## Languages
 * Russian: native
 * English: A2
