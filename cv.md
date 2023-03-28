@@ -1,4 +1,5 @@
 #Kuranova Yulia
+##![Photo](./photo.jpg)
 ##Contacts
 *Github - [JuliaKuranova](https://github.com/JuliaKuranova)
 *Discord - ololo573#5929
